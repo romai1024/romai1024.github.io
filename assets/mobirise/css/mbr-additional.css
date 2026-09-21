@@ -1113,6 +1113,18 @@ section.lazy-placeholder:after {
 .cid-vcf40LzagO {
   background-image: url("../../../assets/images/mbr-2000x1333-vilagos-2000x1123.jpeg");
 }
+#custom-html-x {
+  /* Type valid CSS here */
+}
+#custom-html-x div {
+  padding: 0px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-x p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-vmTEb3N71I {
   padding-top: 60px;
   padding-bottom: 0px;
