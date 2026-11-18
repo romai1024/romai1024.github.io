@@ -1336,13 +1336,3 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
-
-html {
-  scroll-padding-top: 90px; /* Asztali és tablet nézet */
-}
-
-@media (max-width: 767px) {
-  html {
-    scroll-padding-top: 75px; /* Mobil nézet */
-  }
-}
